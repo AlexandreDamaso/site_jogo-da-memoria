@@ -78,7 +78,7 @@ h2 {
 }
 
 .item::after {
-   opacity: 0.90;
+   /* opacity: 0.5; */
    content: "";
    position: absolute;
    inset: 0;

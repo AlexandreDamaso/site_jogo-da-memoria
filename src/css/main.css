@@ -72,11 +72,11 @@ h2 {
 }
 
 .item::after {
-   /* opacity: 0.90; */
+   opacity: 0.90;
    content: "";
    position: absolute;
    inset: 0;
-   background: #404040;
+   background: #cf1313;
    transition: 0.25s;
    transform: rotateY(0deg);
    backface-visibility: hidden;

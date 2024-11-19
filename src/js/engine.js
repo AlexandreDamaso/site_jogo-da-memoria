@@ -55,5 +55,6 @@ function checkMath() {
 
    if (document.querySelectorAll(".boxMatch").length === emojis.length) {
       alert("Game Over");
+      // window.location.reload();
    }
 };
